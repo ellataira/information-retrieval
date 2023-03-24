@@ -1,0 +1,3 @@
+[submodule "indexing"]
+	path = indexing
+	url = git@github.com:ellataira/ir-indexing.git
