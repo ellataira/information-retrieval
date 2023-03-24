@@ -4,3 +4,6 @@
 [submodule "retrieval-models"]
 	path = retrieval-models
 	url = git@github.com:ellataira/ir-retrieval-models.git
+[submodule "crawler"]
+	path = crawler
+	url = git@github.com:ellataira/ir-crawler.git
