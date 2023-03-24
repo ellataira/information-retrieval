@@ -1,3 +1,6 @@
 [submodule "indexing"]
 	path = indexing
 	url = git@github.com:ellataira/ir-indexing.git
+[submodule "retrieval-models"]
+	path = retrieval-models
+	url = git@github.com:ellataira/ir-retrieval-models.git
