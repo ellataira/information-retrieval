@@ -13,3 +13,6 @@
 [submodule "relevant-assessment"]
 	path = relevant-assessment
 	url = git@github.com:ellataira/relevance-assessment.git
+[submodule "relevance-assessment"]
+	path = relevance-assessment
+	url = git@github.com:ellataira/relevance-assessment.git
