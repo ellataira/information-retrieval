@@ -7,3 +7,9 @@
 [submodule "crawler"]
 	path = crawler
 	url = git@github.com:ellataira/ir-crawler.git
+[submodule "ml-for-ir"]
+	path = ml-for-ir
+	url = git@github.com:ellataira/ml-for-ir.git
+[submodule "relevant-assessment"]
+	path = relevant-assessment
+	url = git@github.com:ellataira/relevance-assessment.git
