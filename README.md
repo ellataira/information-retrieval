@@ -14,3 +14,14 @@ The objective of this project is to implement an indexer, used in place of the E
 
 For this project, I implemented a web crawler to construct a document collection focused on a particular topic. The 40,000 crawled documents and their relevant data, including inlinks and outlinks, were saved locally as individual text files and then merged into a group index using Elasticsearch.
 
+## PageRank and HITS
+
+This project computes link graph measures, PageRank and HITS, for a set of crawled documents using an adjacency matrix.
+
+## Relevance Assessments
+
+This project implements a script to score information retrieval relevance, comparing a retrieval model's scores on a set of documents to a file of manually assessed scores for the same documents.
+
+## Machine Learning for Information Retrieval 
+
+This project represents documents as numerical features and applies machine learning to obtain retrieval ranked lists.
