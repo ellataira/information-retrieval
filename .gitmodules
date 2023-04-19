@@ -22,3 +22,6 @@
 [submodule "pagerank-hits"]
 	path = pagerank-hits
 	url = git@github.com:ellataira/pagerank-hits.git
+[submodule "ML-for-IR"]
+	path = ML-for-IR
+	url = git@github.com:ellataira/ml-for-ir.git
