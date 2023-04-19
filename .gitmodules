@@ -19,3 +19,6 @@
 [submodule "relevance-assessments"]
 	path = relevance-assessments
 	url = git@github.com:ellataira/relevance-assessment.git
+[submodule "pagerank-hits"]
+	path = pagerank-hits
+	url = git@github.com:ellataira/pagerank-hits.git
