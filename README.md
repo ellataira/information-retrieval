@@ -16,7 +16,7 @@ For this project, I implemented a web crawler to construct a document collection
 
 ## PageRank and HITS
 
-This project computes link graph measures, PageRank and HITS, for a set of crawled documents using an adjacency matrix.
+This project computes link graph measures, PageRank and HITS, for a set of crawled documents using an adjacency matrix in order to provide document quality insights. 
 
 ## Relevance Assessments
 
@@ -24,4 +24,4 @@ This project implements a script to score information retrieval relevance, compa
 
 ## Machine Learning for Information Retrieval 
 
-This project represents documents as numerical features and applies machine learning to obtain retrieval ranked lists.
+This project represents documents as numerical features and applies machine learning to obtain scored lists of retrieved documents.
